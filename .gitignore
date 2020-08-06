@@ -1,0 +1,5 @@
+dist/
+download/
+out/
+*.pyc
+
